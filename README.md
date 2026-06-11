@@ -1,22 +1,26 @@
-# [Brainhack test] 
+# Brainhack test
 
 A brief description of what this project does and who it's for.  
 
  
 
-# Hi, I'm Tautau! 👋 
+# Hi, I'm Ryan! 👋 
 
  
 
 ## 🚀 About Me 
 
-I love 3SG Hamizam
+I like to learn new things
+
 
  
 
 ## 🛠 Skills 
+-AutoDesk Inventor
+-AutoCAD
+-Solidworks
+-MasterCAM
 
-Calling other people 
 
  
 
